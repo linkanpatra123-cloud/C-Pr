@@ -175,3 +175,44 @@ int main() {
 
     return 0;
 }
+
+
+//OutPut
+//
+//===== Railway Reservation System =====
+//1. Add New Train Record
+//2. Display All Train Records
+//3. Search Train by Number
+//4. Exit
+//Enter Choice: 2
+//
+//-----------------------------
+//Train Number : 22973
+//Train Name   : GIMB Puri Sup Exp
+//Source       : Surat
+//Destination  : Bhubaneswar
+//Train Time   : 06:00
+//-----------------------------
+//
+//-----------------------------
+//Train Number : 12844
+//Train Name   : ADI Puri Sup Exp
+//Source       : Ahemdavad
+//Destination  : Puri
+//Train Time   : 07:30
+//-----------------------------
+//
+//-----------------------------
+//Train Number : 19021
+//Train Name   : BAM Amrit Bharat
+//Source       : Udhna
+//Destination  : Berhampur
+//Train Time   : 09:15
+//-----------------------------
+//
+//===== Railway Reservation System =====
+//1. Add New Train Record
+//2. Display All Train Records
+//3. Search Train by Number
+//4. Exit
+//Enter Choice:
