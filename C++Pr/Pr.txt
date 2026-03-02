@@ -1,0 +1,18 @@
+1. Create a class representing a `Movie` with attributes like `title`, `genre`, and `releasedYear`. Demonstrate the instantiation of objects using array and accessing their attributes.
+
+
+
+2. Define a class named `BankAccount` with private attributes `accountNumber`, `balance`, and `ownerName`. Encapsulate these attributes using appropriate access specifiers. Implement public member functions to credit, debit, and display the balance. Demonstrate encapsulation by interacting with the class through its member functions.
+
+
+
+3. Define a base class `Vehicle` with private attributes `model` and `speed`. Implement public member functions for setting and getting these attributes. Derive two classes, `Car` and `Bike`, from the `Vehicle` class. Implement methods to calculate the time taken for a certain distance based on the speed of each vehicle. Demonstrate abstraction by calling the time calculation methods for both `Car` and `Bike`.
+
+
+
+4. Extend the `Vehicle` hierarchy from Question 3 to include a virtual function `displayDetails()`. Implement the `displayDetails()` function in each derived class to print information specific to the vehicle. Create an array of `Vehicle` pointers, pointing to objects of different vehicles. Demonstrate polymorphism by calling the `displayDetails()` function for each object.
+
+
+
+5. Define an abstract class `Shape` with pure virtual functions `calculateArea()` and `draw()`. Implement concrete/normal classes `Circle` and `Rectangle` that inherit from `Shape`. Demonstrate polymorphism by creating an array of `Shape` pointers pointing to objects of both `Circle` and `Rectangle`. Call the `calculateArea()` and `draw()` functions for each object. Marking criteria:
+
